@@ -1,5 +1,6 @@
+echo "aws/
+awscliv2.zip
 .terraform/
 *.tfstate
 *.tfstate.backup
-.terraform.lock.hcl
-awscliv2.zip
+.terraform.lock.hcl" > .gitignore
